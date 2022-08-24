@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# Meu Link
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ Neste projeto você pode cadastrar personagens.
+ 
+# Deploy: https://meu-link-vmdev.herokuapp.com/
 
-## Available Scripts
+ ## 🚀 Começando
 
-In the project directory, you can run:
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-### `npm start`
+Consulte **Instalação** para saber como implantar o projeto.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 📋 Pré-requisitos
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* IDE Visual Studio Code,
+* Node.js,
+* ReactJS
 
-### `npm test`
+### 🔧 Instalação
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Para iniciarmos será necessário abrir o terminal no caminho correto da pasta do projeto.
+Com o terminal aberto digite o comando: npm init -y (esse comando incluirá em seu projeto a pasta node modules)
 
-### `npm run build`
+```
+User@Victor MINGW64 /d/BKP 11-02-2020/BLUE AULAS/meu-link (main)  npm init -y
+```
+Agora você deve digitar em seu terminal: npm start (isso irá startar seu servidor para execução do projeto)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+User@Victor MINGW64 /d/BKP 11-02-2020/BLUE AULAS/meu-link (main)  npm start
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Abra o link que o terminal gerou
+```
+Exemplo: Servidor rodando em http://localhost:3000
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://user-images.githubusercontent.com/91481122/186524340-18e5f235-3ada-40b0-9b38-8e92aafd8473.png)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ ## 📦 Desenvolvimento
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Foi uma encurtador de links utilizando ReactJs
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🛠️ Construído com
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Tecnologias e linguagens utilizadas no projeto:
 
-## Learn More
+* Linguagem: JavaScript
+* Tecnologias: ReactJS
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## ✒️ Autor
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* **Victor Mateus Rodrigues Fonseca** -  ([https://github.com/DevzVictor])
 
-### Code Splitting
+## 📄 Licença
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Este projeto está sob a licença (Mozilla Public License 2.0) - veja o arquivo LICENSE.md ([https://github.com/DevzVictor/projeto-3.3-Rick-And-Morty/blob/main/LICENSE]) para detalhes.
 
-### Analyzing the Bundle Size
+## 🎁 Expressões de gratidão
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* Obrigado a todos que me apoiam nessa caminhada 🤓.
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
