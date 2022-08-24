@@ -1,6 +1,6 @@
 # Meu Link
 
- Neste projeto você pode cadastrar personagens.
+ Neste projeto você pode encurtar e guardar seus links
  
 # Deploy: https://meu-link-vmdev.herokuapp.com/
 
